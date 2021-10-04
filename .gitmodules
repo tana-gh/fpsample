@@ -1,0 +1,12 @@
+[submodule "fpsample-mockserver"]
+	path = fpsample-mockserver
+	url = git@github.com:tana-gh/fpsample-mockserver.git
+[submodule "fpsample-csharp"]
+	path = fpsample-csharp
+	url = git@github.com:tana-gh/fpsample-csharp.git
+[submodule "fpsample-haskell"]
+	path = fpsample-haskell
+	url = git@github.com:tana-gh/fpsample-haskell.git
+[submodule "fpsample-scala"]
+	path = fpsample-scala
+	url = git@github.com:tana-gh/fpsample-scala.git
